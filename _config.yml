@@ -12,5 +12,9 @@ color:
     - '#253237'
 layout_spectrum: 0.5439212729688734
 name: mikka.is
+navigation:
+  - name: Instagram
+    url: 'https://www.instagram.com/jml2061/'
+    type: external
 title: Mikka Luster
 description: Unterwegsmensch
