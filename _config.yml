@@ -1,16 +1,16 @@
-typography_spectrum: 0.8947072117589414
+typography_spectrum: 0.5870450853835791
 color:
-  brandStrength: 0.5743477877695113
-  lightness: 0.6111306385137141
-  saturation: 0.8276050228159875
-  rhythmicContrast: 0.6328141989652067
+  brandStrength: 0.43820975394919515
+  lightness: 0.941840692423284
+  saturation: 0.37848755111917853
+  rhythmicContrast: 0.23555689700879157
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-layout_spectrum: 0.5439212729688734
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+layout_spectrum: 0.642401018878445
 name: mikka.is
 navigation:
   - name: Instagram
