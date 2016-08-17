@@ -1,0 +1,14 @@
+layout_spectrum: 0.5439212729688734
+typography_spectrum: 0.8947072117589414
+color:
+  brandStrength: 0.5743477877695113
+  lightness: 0.6111306385137141
+  saturation: 0.8276050228159875
+  rhythmicContrast: 0.6328141989652067
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+name: mikka.is
